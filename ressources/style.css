@@ -1,0 +1,31 @@
+* {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+#navigation {
+  background-image: url(images/the-flatiron-building.png);
+  background-repeat: no-repeat;
+  font-size: 18px;
+  color: white;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+
+#NYdesign {
+  background-image: url(images/the-flatiron-building.png);
+  color: white;
+}
+
+footer {
+  text-align: left;
+  background-color: grey;
+}
+
+a:visited {
+  color: white;
+}
